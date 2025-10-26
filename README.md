@@ -63,6 +63,6 @@ Instead of sifting through spreadsheets, management can now explore trends, spot
 Here’s a snapshot of the **Audit Findings Dashboard (2022):**
 
 <p align="center">
-  <img src="audit_dashboard.png" alt="Audit Findings Dashboard 2022" width="800"/>
+  ![image alt](https://github.com/Aderonke-OG/Audit-Dashboard/blob/5f9173540fd17c52237bd18b4538f1849743f5e7/Screenshot%202025-10-26%20135437.png)
 </p>
 
